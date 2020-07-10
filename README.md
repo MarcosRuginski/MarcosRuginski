@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-3.png)
 
 
 <!--
