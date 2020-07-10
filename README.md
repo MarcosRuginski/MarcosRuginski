@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![alt text](https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-3.png)
 
 
 <!--
