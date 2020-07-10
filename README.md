@@ -2,6 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MarcosRuginski)](https://github.com/MarcosRuginski)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-roberto-ruginski-950b02192)](https://www.linkedin.com/in/rebeccamanzi/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcosrobertoruginski@gmail.com)](mailto:marcosrobertoruginski@gmail.com)
+
 
 
 <!--
