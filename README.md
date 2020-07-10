@@ -1,6 +1,6 @@
 # 💻 Marcos Roberto Ruginski 
 
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MarcosRuginski)](https://github.com/MarcosRuginski)
 
 <!--
 **MarcosRuginski/MarcosRuginski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
